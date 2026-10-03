@@ -1,0 +1,6 @@
+{
+  "name": "ShopKart",
+  "description": "Ultra-premium e-commerce experience with pure white theme, lightning-fast navigation, bank offers, 1-day delivery badges, and rich product catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
